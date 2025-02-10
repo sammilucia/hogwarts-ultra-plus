@@ -1,5 +1,21 @@
 # Hogwarts Legacy Ultra Plus and Lighting Pak Source
 
+## Note: This 13 February 2024 repository of Hogwarts Ultra+ is the last version that is open source.
+
+I initially open sourced my mods thinking that people could learn how they work, we could share the knowledge, and there have been some good contributions.
+
+However what actually happened, was people started incorporating Ultra+ settings, which are extremely easy to spot, into their own Engine.ini mods combined with 150 found settings from Reddit, and without any attribution.
+
+I think users being faced with 50 "performance optimization" and "ultimate visuals" mods shouting loudly that they're the best, is frankly just confusing and frustrating.
+
+On a technical level, there aren't really 50 ways to tune performance or maximise visuals. There probably aren't even 5, or 2.
+
+In the meantime Ultra+ has turned into a team of talented developers and artists working on different games, each having ownership of their own work, yet under the Ultra+ brand, and at a high quality people have come to expect from these mods.
+
+While I still absolutely welcome contribution, this is now done in private by the team on [The Ultra Place[(https://discord.gg/ultraplace) Discord. If you have contributed in the past, or would like to, please ping me (or one of our team) in the Discord 😊.
+
+## About
+
 I'm uploading this so that people can see how it works, and hopefully what changes I've made to the vanilla game and why.
 
 While Hogwarts has a lot of plugins that are non-standard, a lot of the principles I've used in these mods also apply to other Unreal Engine 4 and 5 games — especially streamer changes, engine configuration and timing, LODs, and volumetric fog.
